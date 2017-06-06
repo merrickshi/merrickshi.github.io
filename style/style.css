@@ -1,5 +1,5 @@
 body{
-	width: 1000px;
+	width: 80%;
 	margin: 100px auto;
 	line-height: 2em;
 }
@@ -28,7 +28,6 @@ table thead th{
 }
 
 .content{
-	width: 1000px;
 	margin: 200px auto;
 	position: relative;
 
@@ -51,7 +50,6 @@ table thead th{
 }
 
 .list-content{
-	width: 800px;
 	margin-top: 50px;
 }
 
