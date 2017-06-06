@@ -8,6 +8,10 @@ th{
 	font-size: 20px;
 }
 
+tr{
+	cursor: pointer;
+}
+
 table{
     text-align:left;
     border-collapse:collapse;
