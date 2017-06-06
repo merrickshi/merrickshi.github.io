@@ -1,0 +1,62 @@
+body{
+	width: 1000px;
+	margin: 100px auto;
+	line-height: 2em;
+}
+
+th{
+	font-size: 20px;
+}
+
+table{
+    text-align:left;
+    border-collapse:collapse;
+    line-height: 60px;
+}
+
+table thead{
+    border-bottom:2px solid #000080;
+    text-align: left;
+}
+
+table thead th{
+    border-bottom:2px solid #000080;
+}
+
+.content{
+	width: 1000px;
+	margin: 200px auto;
+	position: relative;
+
+}
+
+.circle-content{
+	cursor: pointer;
+	border: 1px solid #ccc;
+	display: inline-block;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+    text-align: center;
+    line-height: 80px;
+}
+
+.right-content{
+	position: absolute;
+	right: 0px;
+}
+
+.list-content{
+	width: 800px;
+	margin-top: 50px;
+}
+
+
+.room-name{
+    background-color: #ccc;
+    height: 30px;
+    display: inline-block;
+    width: 80px;
+    padding: 5px;
+    line-height: 30px;
+}
